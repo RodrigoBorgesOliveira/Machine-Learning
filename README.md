@@ -15,3 +15,6 @@ Machine Learning Exercises done in the online course of Stanford University.
   - Use support vector machines (SVMs) to build a spam classifier.
 - [Exercise 7 - K-Means Clustering and PCA](https://github.com/rodrigoborgesdeoliveira/Machine-Learning/tree/master/machine-learning-ex7)
   - Implement the K-means clustering algorithm and apply it to compress an image.
+- [Exercise 8 - Anomaly Detection and Recommender Systems](https://github.com/rodrigoborgesdeoliveira/Machine-Learning/tree/master/machine-learning-ex8)
+  - Implement the anomaly detection algorithm and apply it to detect failing servers on a network.
+  - Use collaborative filtering to build a recommender system for movies.
